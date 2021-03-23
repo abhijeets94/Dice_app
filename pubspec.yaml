@@ -17,8 +17,13 @@ dev_dependencies:
     sdk: flutter
 
 flutter:
+  fonts:
+    - family: Chango
+      fonts:
+        - asset: fonts/Chango-Regular.ttf
 
   uses-material-design: true
 
   assets:
   - images/
+  - fonts/
